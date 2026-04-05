@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Yash 👋
 
-<!--
-**y2-code/y2-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Student exploring Python & Cybersecurity
+- Learning by building projects
+- Interested in ethical hacking & automation
 
-Here are some ideas to get you started:
+## Currently Learning
+- Python
+- Git & GitHub
+- Security fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+- Build useful tools
+- Participate in CTF challenges
+- Improve problem solving
